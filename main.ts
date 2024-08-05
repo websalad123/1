@@ -17,5 +17,5 @@ let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . . 
     `, SpriteKind.Player)
 forever(function () {
-	
+    music.play(music.createSong(hex`0078000408020100001c00010a006400f4016400000400000000000000000000000000050000040c00000004000127040008000127`), music.PlaybackMode.UntilDone)
 })

@@ -15,4 +15,4 @@
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"2S5bsX0*O[W}R}|NMrEc"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="5r8FOzto~2YB?Oa~_kOm"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"2S5bsX0*O[W}R}|NMrEc"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="5r8FOzto~2YB?Oa~_kOm"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="forever" id="q?~vy.@uJB)O|tue%!nS" x="10" y="210"></block><block type="controls_if" id="(`Sda:2XMPes^)6)]!fw" disabled="true" x="210" y="210"><value name="IF0"><shadow type="logic_boolean" id="{.*u8N=sNN[1B6$(C6_(" disabled="true"><field name="BOOL">TRUE</field></shadow></value></block></xml>
